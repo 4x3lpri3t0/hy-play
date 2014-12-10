@@ -15,6 +15,6 @@ A playground for the [Hy][hy-url] programming language (Lisp on top of Python)
 
 Personally, for interpreting Hy I've downloaded and installed:
 
-* PyCharm
+* PyCharm (IDE)
 * Python interpreter (3.x)
 * Hy package/module (inside PyCharm project)
