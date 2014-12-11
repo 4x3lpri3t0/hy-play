@@ -1,6 +1,6 @@
 # hy-play
 
-![alt text][python-logo]![alt text][lisp-logo]![alt text][hy-logo]
+# ![alt text][python-logo] + ![alt text][lisp-logo] = ![alt text][hy-logo]
 
 A playground for the [Hy][hy-url] programming language (Lisp on top of Python)
 
@@ -17,8 +17,8 @@ Personally, for interpreting Hy I've downloaded and installed:
 
 * [Try Hy][try-hy-url]
 
-[python-logo]: http://imagenes.es.sftcdn.net/es/scrn/69000/69838/python-20.jpg "Python"
-[lisp-logo]: http://www.foldr.org/~michaelw/log/static/programming/lisp/lisp.png "Lisp"
-[hy-logo]: https://avatars2.githubusercontent.com/u/4141508?v=3&s=400 "Hy"
+[python-logo]: /images/python.png "Python"
+[lisp-logo]: /images/lisp.png "Lisp"
+[hy-logo]: /images/hy.png "Hy"
 [hy-url]: http://hylang.org
 [try-hy-url]: https://try-hy.appspot.com/
