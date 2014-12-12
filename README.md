@@ -1,6 +1,6 @@
 # hy-play
 
-# ![alt text][python-logo] + ![alt text][lisp-logo] = ![alt text][hy-logo]
+# ![python-logo] + ![lisp-logo] = ![hy-logo]
 
 A playground for the [Hy][hy-url] programming language (Lisp on top of Python)
 
