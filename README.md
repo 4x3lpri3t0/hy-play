@@ -22,3 +22,7 @@ Personally, for interpreting Hy I've downloaded and installed:
 [hy-logo]: /images/hy.png "Hy"
 [hy-url]: http://hylang.org
 [try-hy-url]: https://try-hy.appspot.com/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Zedronar/hy-play/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
